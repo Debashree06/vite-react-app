@@ -1,15 +1,15 @@
 import React from "react";
 import Navbar from "./Navbar";
 
-function Contact() {
+function SignUp() {
   return (
     <>
       <Navbar />
       <marque>
-        <h2>Contact page</h2>
+        <h2>This is sign up page page</h2>
       </marque>
     </>
   );
 }
 
-export default Contact;
+export default SignUp;
