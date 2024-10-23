@@ -2,9 +2,9 @@ import React from "react";
 
 function Contact() {
   return (
-    <marquee>
+    <marque>
       <h2>This is contact page</h2>
-    </marquee>
+    </marque>
   );
 }
 
