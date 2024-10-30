@@ -27,9 +27,9 @@ function SignUp() {
 
   return (
     <>
-      <marquee>
+      <marque>
         <h2>SignUp page</h2>
-      </marquee>
+      </marque>
       <form onSubmit={handleSubmit}>
         <label>User name:</label>
         <input
